@@ -1,0 +1,16 @@
+{
+  "domain": "busy_light",
+  "name": "BusyLight",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/busy_light",
+  "requirements": ["njhowell-busylight==0.0.7"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@njhowell"
+  ],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
